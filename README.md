@@ -1,6 +1,6 @@
 <h2>Roger Fernandes</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Roger%20Fernandes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tavareshenrique/)](https://www.linkedin.com/in/roger-fernandes-1488841b9/) [![Gmail Badge](https://img.shields.io/badge/roger.afernandes@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=roger.afernandes@hotmail.com)](roger.afernandes@hotmail.com)  [![Rocketseat Badge](https://img.shields.io/badge/-Roger%20Fernandes-8257E6?style=flat-square&logo=apache-rocketmq&logoColor=white&link=https://app.rocketseat.com.br/me/roger-fernandes-1591959969/)](https://app.rocketseat.com.br/me/roger-fernandes-1591959969/)
+[![Linkedin Badge](https://img.shields.io/badge/-Roger%20Fernandes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tavareshenrique/)](https://www.linkedin.com/in/roger-fernandes-1488841b9/)  [![Gmail Badge](https://img.shields.io/badge/-roger.afernandes@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:roger.afernandes@hotmail.com)](mailto:roger.afernandes@hotmail.com)  [![Rocketseat Badge](https://img.shields.io/badge/-Roger%20Fernandes-8257E6?style=flat-square&logo=apache-rocketmq&logoColor=white&link=https://app.rocketseat.com.br/me/roger-fernandes-1591959969/)](https://app.rocketseat.com.br/me/roger-fernandes-1591959969/)
 
 Software engineering student at [Unipampa](https://unipampa.edu.br/portal/#).
 
